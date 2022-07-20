@@ -1,0 +1,24 @@
+div{
+    width: 600px;
+    height: auto;
+    border-style: dashed;
+    border-width: 2px;
+    border-color:#F6AE6D ;
+}
+table{
+    width: 100px;
+    height: 100px;
+}
+form{
+    font-style:Trebuchet MS;
+    font-size: 12pt;
+    color:#BF3030 ;
+    background-color: yellow;
+    margin: 2px;
+}
+legend{
+    background-color: #510F04;
+    color: #F6B5AB;
+    font-size: 20pt;
+    text-align: center;
+}
